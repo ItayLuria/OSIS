@@ -3,15 +3,7 @@
 a project with the goal of making it easy to run hacking tools
 
 <div style="dirrection:ltr">
-  <h1>tools: </h1>
-  <p1>DOS</p1>
-  <br>
-  <p1>Dih search</p1>
-  <br>
-  <p1>arp spoofing</p1>
-  <br>
-  <p1>cctv</p1>
-  <br>
+  <h1>cctv</h1>
 
   <p1>members:</p1>
   <br>
