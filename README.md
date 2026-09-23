@@ -6,7 +6,7 @@ a project with the goal of making it easy to run hacking tools
   <h1>tools: </h1>
   <p1>DOS</p1>
   <br>
-  <p1>Dih search</p1>
+  <p1>Dir search</p1>
   <br>
   <p1></p1>
   <br>
@@ -14,4 +14,12 @@ a project with the goal of making it easy to run hacking tools
   <br>
   <p1></p1>
   <br>
+
+  <p1>members:</p1>
+  <br>
+  <p1>Dan Hertz</p1>
+  <br>
+  <p1>Itay Luria</p1>
+  <br>
+  <p1>Ori David</p1>
 </div>
